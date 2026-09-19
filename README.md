@@ -124,8 +124,14 @@ void loop()
 }
 ```
 # Observation
-<img width="358" height="531" alt="image" src="https://github.com/user-attachments/assets/b139d9d9-a315-46cb-8c56-70e83d147d01" />
-<img width="358" height="501" alt="image" src="https://github.com/user-attachments/assets/c0df541f-91e5-4c13-9f5a-b159547a0dd8" />
+<img width="1600" height="1200" alt="WhatsApp Image 2026-09-19 at 18 36 52" src="https://github.com/user-attachments/assets/f5eadede-eb63-4700-b829-6732dcf667f9" />
+
+
+
+
+https://github.com/user-attachments/assets/8d17e64c-71cb-49ae-99c0-b6a6ad841057
+
+
 
 
 # Result
